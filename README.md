@@ -38,5 +38,6 @@
 
       [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/certificates/Sequences%2C%20Time%20Serirs%20and%20Prediction.jpg" />](https://coursera.org/verify/Q4THAWDKPCUL)
 
+https://www.youtube.com/watch?v=IjEZmH7byZQ
   </p></details>
 
